@@ -1,5 +1,11 @@
+body{
+    border: none;
+    background-color: plum;
+}
+
 nav{
     width: 100hw;
     height: 100px;
     background-color: purple;
+    position: sticky;
 }
