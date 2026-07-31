@@ -1,11 +1,29 @@
 body{
     border: none;
-    background-color: plum;
+    margin: 0px;
+    background-color: rgb(211, 208, 211);
+}
+
+h1{
+    margin: 0px;
 }
 
 nav{
+    text-align: center;
     width: 100hw;
-    height: 100px;
-    background-color: purple;
+    height: 45px;
+    background-color: rgb(145, 139, 145);
     position: sticky;
+}
+
+article{
+    margin: 20px;
+    background-color: rgb(109, 112, 115);
+    margin-top: 23px;
+    max-width: 50%;
+    border-radius: 10px;
+}
+
+article p{
+    padding: 15px;
 }
